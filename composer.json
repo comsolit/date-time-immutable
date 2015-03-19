@@ -1,7 +1,6 @@
 {
     "name": "comsolit/date-time-immutable",
     "description": "Polyfill for the DateTimeImmutable class added in PHP 5.5.0",
-    "version": "0.0.1-beta0",
     "license": "MIT",
     "authors": [
         {
